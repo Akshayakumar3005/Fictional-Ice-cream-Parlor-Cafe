@@ -40,13 +40,13 @@ Customers
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Akshayakumar3005/Fictional-Ice-cream-Parlor-Cafe
 ```
 
 Click '**Windows button + R** to open the command prompt in Windows OS' or 'Go to Application -> utilities -> terminal in Mac OS' and go to the project directory 
 
 ```bash
-  cd my-project
+  cd "lt hackton"
 ```
 
 Run the main.py file
